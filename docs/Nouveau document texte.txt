@@ -1,0 +1,43 @@
+D1: débit de la pulpe en T/h au bloc réactionnel.
+DS1: densité de la pulpe.
+DSF: débit acide sulfirique au bloc réactionnel.
+DpA: débit acide phosphorique recyclé de A au réacteur.
+DpB: débit acide phosphorique recyclé de B au réacteur.
+T1: températur du premier compartiment dans le bloc réactionnel.
+T2: températur du deuxieme compartiment dans le bloc réactionnel.
+T3: températur du troisième compartiment dans le bloc réactionnel.
+T4: températur à l'entrée du bloc de maturation.
+DeltaT: différence de température entre T3 et T4.
+P: la pression de vide du flash cooler mbar dans le bloc réactionnel.
+M01:Niveau de bloc réactionnel %.
+M02:Niveau de bloc de maturation %.
+VA: pression de vide en A mbar.
+VB: pression de vide en B mbar.
+D2A: débit débit de slurry du bloc de maturation à A m3/h.
+D2B: débit débit de slurry du bloc de maturation à B m3/h.
+Ds: densité de slurry.
+Ts1: taux de solide slurry %.
+SF: sulfate en slurry %.
+D3A: débit produit en A de l'acide phospho m3/h.
+D3B: débit produit en B de l'acide phospho m3/h.
+DS2A: densité du produit en A .
+DS2B: densité du produit en B .
+POA: % en P2O5 en produit en A % . 
+POB: % en P2O5 en produit en B % .
+TsA:  Taux de solide dans le produit en A % . 
+TsB:  Taux de solide dans le produit en B % .
+SFA: Sulfate en sortie de A g/l .
+SFB: Sulfate en sortie de B g/l .
+DgA: débit gypsum en A m3/h .
+DgB: débit gypsum en B m3/h .
+YseA: Perte en P2O5 (SE) en A % .
+YseB: Perte en P2O5 (SE) en B % .
+YuntA: Perte en P2O5 (UNT) en A % .
+YuntB: Perte en P2O5 (UNT) en B % .
+YsynA: Perte en P2O5 (SYN) en A % .
+YsynB: Perte en P2O5 (SYN) en B % .
+CaOA: Perte en Cao en A % .
+CaOB: Perte en Cao en B % .
+Ym: Perte moyenne en P2O5 par jour.
+CaO: Perte moyenne en CaO par jour.
+R: le rendement.
